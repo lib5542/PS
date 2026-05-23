@@ -1,0 +1,29 @@
+import sys
+input = lambda : sys.stdin.readline().rstrip()
+ints = lambda : map(int, input().split())
+
+for case in range(int(input())):
+    n = int(input())
+    a = [*ints()]
+
+
+
+
+
+
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    /*
+    소수 출력 사용 시
+    cout << fixed;
+    cout.precision(10);
+    */
+
+    return 0;
+}
