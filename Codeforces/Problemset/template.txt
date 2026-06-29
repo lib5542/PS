@@ -8,9 +8,6 @@ for case in range(int(input())):
 
 
 
-
-
-
 #include <bits/stdc++.h>
 
 using namespace std;
