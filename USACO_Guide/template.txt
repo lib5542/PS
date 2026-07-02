@@ -12,6 +12,10 @@ for case in range(int(input())):
 
 using namespace std;
 
+void solve() {
+    
+}
+
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(nullptr);
@@ -21,6 +25,8 @@ int main() {
     cout << fixed;
     cout.precision(10);
     */
+
+    solve();
 
     return 0;
 }
