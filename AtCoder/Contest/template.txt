@@ -1,16 +1,10 @@
-import sys
-input = lambda : sys.stdin.readline().rstrip()
-ints = lambda : map(int, input().split())
-
-for case in range(int(input())):
-    n = int(input())
-    a = [*ints()]
-
-
-
 #include <bits/stdc++.h>
 
 using namespace std;
+
+void solve() {
+
+}
 
 int main() {
     ios_base::sync_with_stdio(false);
@@ -21,6 +15,8 @@ int main() {
     cout << fixed;
     cout.precision(10);
     */
+
+    solve();
 
     return 0;
 }
